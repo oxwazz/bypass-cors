@@ -1,6 +1,6 @@
-name = "bypass-cors"
+name = "cors-bypass"
 main = "build/worker/shim.mjs"
-compatibility_date = "2024-12-25"
+compatibility_date = "2024-12-31"
 
 [build]
 command = "cargo install -q worker-build && worker-build --release"
