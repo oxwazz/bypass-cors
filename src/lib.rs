@@ -61,7 +61,7 @@ async fn fetch(mut req: Request, _env: Env, _ctx: Context) -> Result<Response> {
                     .to_lowercase()
                     .starts_with("text/html")
             {
-                return value.to_str().ok().map(|v| {
+                return value.to_str().ok().map(|_| {
                     (
                         name.to_string(),
                         "text/plain ; charset=\"utf-8\"".to_string(),
