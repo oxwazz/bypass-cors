@@ -11,7 +11,7 @@
 📷 Effortlessly access to your backend APIs and say goodbye to CORS headaches!
 
 > [!WARNING]
-> Important: This API is intended for development purposes only and should not be used in production environments.
+> This API is intended for development purposes only and should not be used in production environments.
 
 ### Contents
 
@@ -51,7 +51,7 @@ We understand how challenging it can be to juggle development tasks while stayin
 so this tool is designed to make your life easier and let you focus on what matters most—building great applications.
 
 > [!WARNING]
-> Important: Use this for development purposes only and should not be used in production environments.
+> Use this for development purposes only and should not be used in production environments.
 
 ## Limitation
 
