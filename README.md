@@ -1,3 +1,6 @@
+> [!WARNING]
+> This API is intended for development purposes only and should not be used in production environments.
+
 # Cors Bypass
 
 [badge-workflow]: https://img.shields.io/github/actions/workflow/status/oxwazz/cors_bypass/release.yml
@@ -9,9 +12,6 @@
 [![badge-twitter]][link-twitter]
 
 📷 Effortlessly access to your backend APIs and say goodbye to CORS headaches!
-
-> [!WARNING]
-> This API is intended for development purposes only and should not be used in production environments.
 
 ### Contents
 
@@ -49,9 +49,6 @@ Congratulation! 🎉 You are now bypassing the endpoint that has cors restrictio
 🖌️ We created this project to help developers access their backend APIs without worrying about CORS restrictions. 
 We understand how challenging it can be to juggle development tasks while staying productive, 
 so this tool is designed to make your life easier and let you focus on what matters most—building great applications.
-
-> [!WARNING]
-> Use this for development purposes only and should not be used in production environments.
 
 ## Limitation
 
