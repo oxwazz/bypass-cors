@@ -42,8 +42,12 @@ done 🎉
 ## :thread: How it works
 
 This code is deployed on [Cloudflare worker](https://developers.cloudflare.com/workers/languages/rust/). The entire script is on lib.rs.
-It makes the request exactly as defined by the user, retrieves the response from the target server, and returns it with 
-additional headers to ensure it is CORS-compliant.
+This service acts as a flexible and efficient HTTP proxy that processes user-defined requests. It allows users to 
+specify various HTTP parameters such as request headers, methods (GET, POST, PUT, DELETE, etc.), body content, and the 
+target URL. The proxy forwards the request exactly as defined by the user, retrieves the response from the target 
+server, and returns it with additional headers to ensure it is CORS-compliant.
+
+
 
 ## :wrench: Tools
 
