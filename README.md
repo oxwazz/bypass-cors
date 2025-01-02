@@ -25,7 +25,7 @@
 
 ## Usage
 
-🎩 If you want to access endpoint that has cors restriction for example `https://cors-restriction.com/users?user_id=1`,
+🎩 If you want to access endpoint that has cors restriction, for example `https://cors-restriction.com/users?user_id=1`,
 simply prepend it with `https://cors-bypass.oxwazz.com/` to make it work seamlessly. 
 
 like this:
