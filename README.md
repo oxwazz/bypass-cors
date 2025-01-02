@@ -11,7 +11,7 @@
 [![badge-workflow]][link-workflow]
 [![badge-twitter]][link-twitter]
 
-📷 Effortlessly access to your backend APIs and say goodbye to CORS headaches!
+🏄 Effortlessly access to your backend APIs and say goodbye to CORS headaches!
 
 ### Contents
 
