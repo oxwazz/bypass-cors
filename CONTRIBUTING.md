@@ -41,9 +41,9 @@ done 🎉
 
 ## :thread: How it works
 
-This code is deployed on [Cloudflare worker](https://developers.cloudflare.com/workers/languages/rust/). The entire script is on lib.rs. 
-It makes a request to the based on user's request (header, method, body, etc.) and return the response 
-with header `access-control-allow-origin=*` and `access-control-allow-methods=*` (cors free).
+This code is deployed on [Cloudflare worker](https://developers.cloudflare.com/workers/languages/rust/). The entire script is on lib.rs.
+It makes the request exactly as defined by the user, retrieves the response from the target server, and returns it with 
+additional headers to ensure it is CORS-compliant.
 
 ## :wrench: Tools
 
